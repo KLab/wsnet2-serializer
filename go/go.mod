@@ -1,4 +1,4 @@
-module github.com/KLab/wsnet2-serializer/wsnet2.binary
+module github.com/KLab/wsnet2-serializer/go
 
 go 1.17
 
